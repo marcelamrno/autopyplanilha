@@ -1,7 +1,7 @@
 
 ###Programa de automação de planilha exel 
 
-###Desenvolovimento:computer:
+###Desenvolovimento💻:
 
 >Programa de codigo entra  no site e preenche de forma automatica 
 as celulas correspondentes de nome e produtos conforme a planilha.'
